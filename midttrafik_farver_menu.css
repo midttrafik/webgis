@@ -1,0 +1,7 @@
+.container, .container-fluid{
+    background-color:rgba(155,28,24,1)
+}
+
+a, a:focus, a:hover {
+    color: rgba(155,28,24,1);
+}
