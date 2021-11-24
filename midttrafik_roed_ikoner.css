@@ -12,9 +12,15 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
     color: rgba(155,28,24,1);
 }*/
 
-/* To keep the logo white */
+/*/* To keep the logo white */
 .navbar .navbar-brand i {
     color:#FFFFFFD6
+    color: #ffffff00
+}*/
+
+/* Make logo opacity 100% */
+.navbar .navbar-brand i {
+    color: #ffffff00
 }
 
 /* Red bagground in topheader and midttrafik logo*/
