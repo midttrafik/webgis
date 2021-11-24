@@ -28,6 +28,6 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
 }
 
 /* Remove download button */
-.col-md-6 {
-    display:None;
+.form-group.col-md-6 {
+    display: none;
 }
