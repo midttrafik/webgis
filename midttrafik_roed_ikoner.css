@@ -1,0 +1,13 @@
+/* Set text color to white */
+a .material-icons, a:focus .material-icons, a:hover .material-icons {
+    color: rgba(155,28,24,1);
+}
+
+
+.leaflet-bar a, .leaflet-bar a:hover {
+    color: rgba(155,28,24,1)
+}
+
+.leaflet-control-locate a {
+    color: rgba(155,28,24,1);
+}
