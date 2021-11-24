@@ -26,3 +26,8 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
 .togglebutton label input[type=checkbox]:checked+.toggle {
     background-color: #4caf50;
 }
+
+/* Remove download button */
+.col-md-6 {
+    display:None;
+}
