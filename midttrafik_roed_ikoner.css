@@ -21,3 +21,8 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
 .container, .container-fluid {
     background-color: rgba(155,28,24,1);
 }
+
+/* Change color of switch, when true */
+.togglebutton label input[type=checkbox]:checked+.toggle {
+    background-color: #4caf50;
+}
