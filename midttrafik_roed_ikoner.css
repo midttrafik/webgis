@@ -16,3 +16,8 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
 .navbar .navbar-brand i {
     color:#FFFFFFD6
 }
+
+/* Red bagground in topheader */
+.container, .container-fluid {
+    background-color: rgba(155,28,24,1);
+}
