@@ -11,3 +11,7 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
 .leaflet-control-locate a {
     color: rgba(155,28,24,1);
 }
+
+.material-icons.brand-icon{
+    color:#FFFFFFD6
+}
