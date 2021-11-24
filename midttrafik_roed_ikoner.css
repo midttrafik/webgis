@@ -17,10 +17,17 @@ a .material-icons, a:focus .material-icons, a:hover .material-icons {
     color:#FFFFFFD6
 }
 
-/* Red bagground in topheader */
+/* Red bagground in topheader and midttrafik logo*/
 .container, .container-fluid {
     background-color: rgba(155,28,24,1);
+    background-image: url(https://raw.githubusercontent.com/midttrafik/gisimages/main/LOGO_Midttrafik_72dpi_roed_baggrund_lille.jpg);
+    background-repeat: no-repeat;
+    width: 87%;
 }
+.navbar, .navbar.navbar-default {
+    background-color: rgba(155,28,24,1);
+}
+
 
 /* Change color of switch, when true */
 .togglebutton label input[type=checkbox]:checked+.toggle {
