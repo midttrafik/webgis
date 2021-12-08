@@ -1,4 +1,4 @@
-/*#find-me-btn{
+#find-me-btn{
     display:None
 }
 
@@ -24,12 +24,4 @@ i.material-icons.gc2-session-unlock {
 
 i.material-icons.gc2-session-lock {
     display: NONE;
-}*/
-
-#floating-container-secondary{
-Display: None
-}
-
-a#full-screen-btn {
-    display: inline-block;
 }
