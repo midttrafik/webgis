@@ -23,7 +23,7 @@ a#session{
 }
 
 i.material-icons.gc2-session-unlock {
-    display: None;
+    display: None !important;
 }
 
 i.material-icons.gc2-session-lock {
