@@ -27,5 +27,5 @@ i.material-icons.gc2-session-unlock {
 }
 
 i.material-icons.gc2-session-lock {
-    display: None;
+    display: None !important;
 }
