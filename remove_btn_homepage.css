@@ -29,3 +29,6 @@ i.material-icons.gc2-session-unlock {
 i.material-icons.gc2-session-lock {
     display: None !important;
 }
+div#place-search {
+    display:None
+}
