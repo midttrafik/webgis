@@ -29,3 +29,7 @@ i.material-icons.gc2-session-unlock {
 i.material-icons.gc2-session-lock {
     display: None !important;
 }
+/* Ny Vidi */
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, #offcanvasLayerControlBtn, .sign-in-btn, .about-btn, .reset-btn, .leaflet-control-simpleMapScreenshoter-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle) {
+    display:none !important;
+  }
