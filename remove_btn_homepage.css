@@ -42,7 +42,7 @@ div#embed-legend-panel {
     display:none !important;
   }
 
- .twitter-typeahead{
+ .twitter-typeahead, .legend-btn{
     display:none !important;
  }
  
