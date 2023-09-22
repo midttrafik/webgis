@@ -38,7 +38,7 @@ div#embed-legend-panel {
 }
 
 /* Ny Vidi */
-.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, #offcanvasLayerControlBtn, .sign-in-btn, .about-btn, .reset-btn, .leaflet-control-simpleMapScreenshoter-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle) {
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, #offcanvasLayerControlBtn, .sign-in-btn, .about-btn, .reset-btn, #baselayer-toggle, .leaflet-control-simpleMapScreenshoter-btn, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle) {
     display:none !important;
   }
 
