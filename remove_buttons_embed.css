@@ -1,0 +1,16 @@
+.embed .sign-in-btn {
+  display:none !important;
+}
+/*embed class er ikke placeret allerøverst i html-dokumentet af tekniske årsager, men er placeret på de overordnede elementer. Fx er embed placeret i <nav> elementet (nav-baren), så hvis du vil have fat i den skal det gøres således:*/
+.navbar.embed {
+  display:none !important;
+}
+/*Bemærk, at der ikke er mellemrum mellem .navbar og .embed, hvilket betyder, at du vælger elementer, hvor begge classes er på samme element. Eksisterende regler vil forsat virke i embed. Fx vil:*/
+.sign-in-btn {
+  display:none !important;
+}
+/*og*/
+.embed .sign-in-btn {
+  display:none !important;
+}
+/*Begge virker i embed, men kun den øverste vil virke i default.*/
