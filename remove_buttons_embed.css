@@ -14,3 +14,7 @@
   display:none !important;
 }
 /*Begge virker i embed, men kun den øverste vil virke i default.*/
+/* Ny Vidi */
+.history-control, .leaflet-control-locate, .leaflet-control-custom:not(.full-screen-btn) {
+    display:none !important;
+  }
