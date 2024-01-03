@@ -6,9 +6,9 @@
   display:none !important;
 }
 /*Bemærk, at der ikke er mellemrum mellem .navbar og .embed, hvilket betyder, at du vælger elementer, hvor begge classes er på samme element. Eksisterende regler vil forsat virke i embed. Fx vil:*/
-.sign-in-btn {
+/*.sign-in-btn {
   display:none !important;
-}
+}*/
 /*og*/
 .embed .sign-in-btn {
   display:none !important;
