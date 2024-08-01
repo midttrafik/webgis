@@ -1,0 +1,4 @@
+/* Fjerner SQL filter */
+.filter-functions  {
+    display:none !important;
+  }
