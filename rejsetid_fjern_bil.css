@@ -1,0 +1,4 @@
+/* Fjerner bil i rejsetidsmodulet */
+.btn-group>.btn-check:checked+.btn  {
+    display:none !important;
+  }
