@@ -8,7 +8,7 @@
   height: 100vh !important;     /* fylder hele højden af skærmen */
   width: 400px !important;      /* eller en procent, fx 25% */
   margin: 0 !important;
- transform: none !important;    /* fjern Leaflet’s auto-centrering */
+  transform: none !important;    /* fjern Leaflet’s auto-centrering */
   border-radius: 0 !important;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
   overflow-y: auto;
