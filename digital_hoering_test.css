@@ -1,3 +1,2 @@
-#floating-container-secondary{
-Display: None
-}
+.leaflet-popup-tip-container {
+  display: none !important; }
