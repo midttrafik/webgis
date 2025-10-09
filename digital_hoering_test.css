@@ -1,14 +1,14 @@
 .leaflet-popup-tip {
   display: none !important; },
 .leaflet-popup {
- /* position: fixed !important; */  /* gør placeringen uafhængig af kortet */
+  position: fixed !important;   /* gør placeringen uafhængig af kortet */
   top: 0 !important;
   left: 0 !important;
   bottom: 0 !important;
   height: 100vh !important;     /* fylder hele højden af skærmen */
   width: 400px !important;      /* eller en procent, fx 25% */
   margin: 0 !important;
-  transform: none !important;   /* fjern Leaflet’s auto-centrering */
+ /*  transform: none !important; */   /* fjern Leaflet’s auto-centrering */
   border-radius: 0 !important;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
   overflow-y: auto;
