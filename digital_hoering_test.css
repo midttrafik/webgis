@@ -18,7 +18,7 @@
 .leaflet-popup-pane {
   transform: none !important;
 }
-#layer-content{ display: none !important;
+.bi bi-info-square{ display: none !important;
               }
 #search-content{ display: none !important;
               }
