@@ -1,3 +1,2 @@
-i.bi.bi-search{
-	display: none !important;
-}
+#main-tabs > li:nth-child(3) > a{
+  display: none !important; }
