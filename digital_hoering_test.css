@@ -1,7 +1,6 @@
 .leaflet-popup-tip {
   display: none !important; }
 .leaflet-popup {
-  position: fixed !important;   /* gør placeringen uafhængig af kortet */
   top: 0 !important;
   left: 0 !important;
   bottom: 0 !important;
