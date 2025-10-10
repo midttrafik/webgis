@@ -1,2 +1,2 @@
-#main-tabs > li:nth-child(3) > a{
+.sticky-top{
   display: none !important; }
