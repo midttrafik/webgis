@@ -1,6 +1,2 @@
-.sticky-top{
-  display: none !important; }
-.nav-link{
-  display: none !important; }
-.nav-item{
+.d-flex align-items-start flex-row-reverse{
   display: none !important; }
