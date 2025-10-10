@@ -1,5 +1,5 @@
 .leaflet-popup-tip {
-  display: none !important; },
+  display: none !important; }
 .leaflet-popup {
   position: fixed !important;   /* gør placeringen uafhængig af kortet */
   top: 0 !important;
@@ -15,4 +15,6 @@
   background: white;
   z-index: 9999;                /* sikrer at boksen ligger over kortet */
 }
-
+.leaflet-popup-pane {
+  transform: none !important;
+}
