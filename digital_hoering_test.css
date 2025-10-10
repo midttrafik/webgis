@@ -1,2 +1,2 @@
-div.sticky-top{
+#mainLayerOffcanvas > div.offcanvas-body > div > div.sticky-top{
   display: none !important; }
