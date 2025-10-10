@@ -18,3 +18,7 @@
 .leaflet-popup-pane {
   transform: none !important;
 }
+#layer-content{ display: none !important;
+              }
+#search-content{ display: none !important;
+              }
