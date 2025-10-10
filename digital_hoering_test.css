@@ -1,1 +1,3 @@
-li:nth-child(1){display: none !important;}
+.bi bi-search {
+	display: none;
+}
