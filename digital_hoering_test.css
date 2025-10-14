@@ -1,3 +1,21 @@
 .sticky-top {
   display: none !important;
 }
+.d-grid.gap-2 {
+  display: none !important;
+}
+.offcanvas-title.js-module-title {
+  display: none !important;
+}
+#offcanvasLayerControlBtn span.d-none.d-md-inline {
+  visibility: hidden;
+  position: relative;
+}
+
+#offcanvasLayerControlBtn span.d-none.d-md-inline::after {
+  content: "Informationsvindue";
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
