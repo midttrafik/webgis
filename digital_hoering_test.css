@@ -13,7 +13,7 @@
 }
 
 #offcanvasLayerControlBtn span.d-none.d-md-inline::after {
-  content: "Informationsvindue";
+  content: "Info";
   visibility: visible;
   position: absolute;
   left: 0;
