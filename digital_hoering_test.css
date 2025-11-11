@@ -1,10 +1,7 @@
-.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, .sign-in-btn, .about-btn, .reset-btn, #baselayer-toggle, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle), .navbar-brand {
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, .sign-in-btn, .about-btn, #offcanvasLayerControlBtn, .reset-btn, #baselayer-toggle, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle), .navbar-brand {
     display:None !important;
   }
 a.navbar-brand.d-none.d-md-inline {
     display:None !important;
   }
   
-#offcanvasLayerControlBtn {
-	visibility: hidden;
-  }
