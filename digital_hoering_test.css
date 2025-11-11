@@ -1,21 +1,10 @@
-.sticky-top {
-  display: none !important;
-}
-.d-grid.gap-2 {
-  display: none !important;
-}
-.offcanvas-title.js-module-title {
-  display: none !important;
-}
-#offcanvasLayerControlBtn span.d-none.d-md-inline {
-  visibility: hidden;
-  position: relative;
-}
-
-#offcanvasLayerControlBtn span.d-none.d-md-inline::after {
-  content: "Info";
-  visibility: visible;
-  position: absolute;
-  left: 0;
-  top: 0;
-}
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .navbar-brand, .sign-in-btn, .about-btn, .reset-btn, #baselayer-toggle, .leaflet-control-custom:not(.full-screen-btn,.baselayer-toggle), .navbar-brand {
+    display:None !important;
+  }
+a.navbar-brand.d-none.d-md-inline {
+    display:None !important;
+  }
+  
+#offcanvasLayerControlBtn {
+	visibility: hidden;
+  }
