@@ -1,0 +1,44 @@
+{
+    "schemata": [
+        "public",
+
+        "tag:_ruter"
+    ],
+    "baseLayers": [
+        {
+            "$ref": "https://midttrafik.admin.gc2.io/api/v2/configuration/midttrafik/configuration_baggrundskort_enkeltvis_6915e3769551b272442770.json#/forvaltning2"
+        },
+        {
+            "$ref": "https://midttrafik.admin.gc2.io/api/v2/configuration/midttrafik/configuration_baggrundskort_enkeltvis_6915e3769551b272442770.json#/geodanmark"
+        }
+     
+
+    ],
+    "showLayerGroupCheckbox": false,
+    "enabledExtensions": [
+        "conflictSearch",
+        "streetView",
+        "session",
+        "editor",
+        "embed"
+    ],
+    "enabledPrints": [
+        "print_mt"
+    ],
+    "brandName": "Midttrafik Trafikplan",
+    "startUpModal": "<h1>Sidste nyt</h1> <p>- Data & analyse</p>",
+    "title": "Trafikplan",
+    "removeDisabledLayersFromLegend": true,
+    "aboutBox": "<h1>Trafikplan</h1><p>WebGIS-løsning målrettet rådgivning og trafikplanarbejde med muligheder for visualisering af ruter, stoppesteder, passagertal, fremkommelighed, frekvens, pendler- og flexdata mm. Mulighed for at få uploadet specialanalyser f.eks. med data fra en kommune.</p>",
+    "searchConfig": {
+        "size": 10,
+        "placeholderText": "Adresse"
+    },
+    "cssFiles": [
+        "remove_config.css",
+        "remove_filter-functions"
+    ],
+    "activeLayers": [
+        "grunddata.wms_stednavne"
+    ]
+}
